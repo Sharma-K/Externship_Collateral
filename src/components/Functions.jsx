@@ -7,6 +7,7 @@ const Functions = (props) => {
 {console.log(props)};
     return(
         <div>
+        hey
         {props.show==='g' && <Graphics />}
         {props.show==='a' && <Ad />}
          {props.show==='i' && <Interactions />}   
