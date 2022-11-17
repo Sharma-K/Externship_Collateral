@@ -4,7 +4,7 @@ import Ad from "./Ad";
 import Interactions from "./Interactions";
 import Promotions from "./Promotions";
 const Functions = (props) => {
-{console.log(props)};
+
     return(
         <div>
         hey
