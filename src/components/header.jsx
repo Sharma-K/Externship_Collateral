@@ -27,11 +27,9 @@ return(
  <h1>Company Name</h1>
 </div>
 
-<motion.div
-animate={{ x: 100 }}
->
+
 { Open=="Close" && <Pop/>}
-</motion.div>
+
 {/* <ul className='head-down'>
 <li>Home</li>
 <li>Collateral</li>

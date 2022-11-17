@@ -44,6 +44,9 @@ header{
     gap: 30px;
  
 }
+.main-head h1{
+    text-align: center;
+}
 
 .head-upper h1{
     /* letter-spacing: 4px; */
